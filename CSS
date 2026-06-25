@@ -1,0 +1,163 @@
+body,
+input,
+textarea,
+select,
+button {
+  color: #d7e0de !important;
+  font-family: 'Georgia Serif, Times New Roman, Palatino, Serif' !important;
+}
+
+#header a,
+#header a:visited,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header .primary .dropdown a:focus {
+  color: #d7e0de;
+  font-family: inheret;
+}
+
+#header .heading a {
+  color: #31575f;
+}
+
+#outer {
+  background-image: url("https://64.media.tumblr.com/aa346b3d488d306c579b83777ca73f2d/a79468371648c20f-4b/s1280x1920/294ee03f8d00c6fab547f6df88fd3d821c9f7f42.png");
+  background-size: cover;
+  background-postion: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+#greeting p.icon a {
+  display: none;
+}
+
+#header .user a:after,
+#small_login .action:after {
+  content: " ☠︎︎ ";
+}
+
+#header {
+  color: #d7e0de;
+  background-image: url("https://64.media.tumblr.com/e21b0103ac583a529a58f6266c0c5735/33717cc7905a602a-92/s1280x1920/50c5d21cbba43507fe5e3aee7befddb8ba860bd8.png");
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 1em 1em 3em;
+}
+
+#header .heading {
+  height: 11em;
+}
+
+#header .primary {
+  background: rgba( 0, 0, 0, 0.3);
+}
+
+#header .logo,
+#header .heading sup {
+  display: none;
+}
+
+#header h1.heading span {
+  display: none;
+}
+
+#header h1.heading a::before {
+  display: inline-block;
+  margin: 0 1em 3em;
+  width: 284px;
+  height: 150px;
+  content: " ";
+  background-image: url("https://64.media.tumblr.com/eeb712539e6a3a015a340f1c00e05366/3f7cea75f38e806d-3b/s1280x1920/0e58160808c747f5e58f27cc7bf60361fe57d2e8.png");
+  background-size: 284px 150px;
+}
+
+form.search input[type="text"] {
+  border-radius: 0px;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions button,
+.actions input,
+input[type="submit"],
+button,
+.actions label {
+  background: rgb(0, 0, 0);
+  border: none;
+  border-radius: 0px;
+}
+
+#header .user a:hover,
+#header .user a:focus {
+  color: #59727c;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a {
+  background: #000;
+  border-width: 0px;
+  border-radius: 0px;
+}
+
+#header .menu li {
+  border: none !important;
+}
+
+#header .dropdown ul,
+.dropdown ul {
+  border: 1px solid #000 !important;
+  background: rgba(0,0,0,.9) !important;
+}
+
+#footer {
+  background-image: url("https://64.media.tumblr.com/e21b0103ac583a529a58f6266c0c5735/33717cc7905a602a-92/s1280x1920/50c5d21cbba43507fe5e3aee7befddb8ba860bd8.png");
+  background-size: cover;
+  background-postion: 50% 10%;
+  background-attachment: fixed;
+  border-top: none;
+  color: #b5bfc1;
+}
+
+#dashboard,
+#dashboard.own {
+  border-bottom: none;
+  border-top: none;
+}
+
+#dashboard.own {
+  background-image: url("https://64.media.tumblr.com/e21b0103ac583a529a58f6266c0c5735/33717cc7905a602a-92/s1280x1920/50c5d21cbba43507fe5e3aee7befddb8ba860bd8.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#dashboard .current {
+  background: rgba( 0, 0, 0, 0.6);
+}
+
+#dashboard a,
+#dashboard span {
+  color: #d7e0de;
+}
+
+.listbox,
+fieldset fieldset.listbox {
+  background: #000;
+  border: 1px solid #000;
+  box-shadow: 2px 2px 2px 2px #000;
+}
+
+.listbox > .heading,
+.listbox .heading a:visited {
+  color: #b5bfc1;
+}
+
+.listbox .index {
+  background-image: url("https://64.media.tumblr.com/e21b0103ac583a529a58f6266c0c5735/33717cc7905a602a-92/s1280x1920/50c5d21cbba43507fe5e3aee7befddb8ba860bd8.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
