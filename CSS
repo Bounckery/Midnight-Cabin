@@ -310,6 +310,7 @@ dl.meta {
   box-shadow: 0 0px 10px rgba(0, 0, 0, 0.34), 0 0px 10px rgba(0, 0, 0, 0.34),
     0 0px 10px rgba(0, 0, 0, 0.34), 0 0px 10px rgba(0, 0, 0, 0.34),
     0 0px 10px rgba(0, 0, 0, 0.34), 0 0px 10px rgba(0, 0, 0, 0.34);
+  padding: 15px;
 }
 
 .blurb blockquote {
@@ -846,6 +847,13 @@ p.kudos {
   background-repeat: no-repeat;
   margin-right: 0.5em;
 }
+
+.javascript {
+  background-image: url("https://64.media.tumblr.com/e21b0103ac583a529a58f6266c0c5735/33717cc7905a602a-92/s1280x1920/50c5d21cbba43507fe5e3aee7befddb8ba860bd8.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 
 .site-skin-metadata {
   content: "==================================================
