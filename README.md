@@ -8,7 +8,7 @@ Other elements were found on Pinterest / Until Dawn.
 MOBILE/PHONE VERSION IS NOT INCLUDED! 
      -> Best viewed on desktop/wide screen [you may use it on your phone but the images wont load in correctly, it'll just look like one solid colour]
 
-CSS is formatted very messily. Minor issues may occur; feel free to message me on my Tumblr or any other one of my socials for it to be fixed! [ @bounckery ] 
+CSS is formatted very messily. Minor issues may occur; feel free to message me on my Tumblr or any other one of my socials for it to be fixed! [ @bounckery/archivalcordial ] 
 
 
 HOW TO USE:
