@@ -517,6 +517,7 @@ form dl {
   background-position: center;
   background-attachment: fixed;
   border: none;
+  padding: 1em;
   box-shadow: 0 0px 10px rgba(0, 0, 0, 0.34), 0 0px 10px rgba(0, 0, 0, 0.34),
     0 0px 10px rgba(0, 0, 0, 0.34), 0 0px 10px rgba(0, 0, 0, 0.34),
     0 0px 10px rgba(0, 0, 0, 0.34), 0 0px 10px rgba(0, 0, 0, 0.34);
